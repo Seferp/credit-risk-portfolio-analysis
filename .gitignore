@@ -1,0 +1,22 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE settings
+.idea/
+.vscode/
+
+# Original dataset
+data/*.xls
+data/*.xlsx
+
+# Temporary files
+*.tmp
+*.log
+~$*
+
+# Power BI temporary files
+*.pbitmp
